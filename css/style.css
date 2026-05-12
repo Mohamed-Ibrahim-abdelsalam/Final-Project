@@ -1469,6 +1469,7 @@ color: color-mix(in srgb, var(--default-color), transparent 70%);
 }
 .footer .footer-links ul li {
     padding: 10px 0;
+    
     display: flex;
     align-items: center;
 }
@@ -1506,9 +1507,9 @@ color: color-mix(in srgb, var(--default-color), transparent 70%);
 }
 
 .scroll-top.active {
-    visibility: visible;
-    opacity: 1;
-    bottom: 15px; 
+    visiity: 1;
+    bottbility: visible;
+    opacom: 15px; 
 }
 
 .scroll-top:hover {
